@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
     <head>
@@ -3508,6 +3507,5 @@
 		<outline text="Again Faster - Latest entries" title="Again Faster - Latest entries" type="rss" xmlUrl="https://www.againfaster.com/en/rss/latest/" htmlUrl="https://www.againfaster.com/blog/" />
 		<outline text="Destroy All Software Screencasts" title="Destroy All Software Screencasts" type="rss" xmlUrl="https://www.destroyallsoftware.com/screencasts/feed" htmlUrl="https://www.destroyallsoftware.com/screencasts" />
 		<outline text="Django community aggregator: New/updated Django packages" title="Django community aggregator: New/updated Django packages" type="rss" xmlUrl="https://www.djangoproject.com/rss/community/packages/" htmlUrl="http://www.djangoproject.com/rss/community/packages/" />
-
-    </body>
+</body>
 </opml>
