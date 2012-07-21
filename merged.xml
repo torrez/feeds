@@ -134,7 +134,7 @@
 		<outline text="Lately" title="Lately" type="rss" xmlUrl="http://beebo.org/lately/feed" htmlUrl="http://beebo.org/lately/" />
 		<outline text="Be Good Not Bad" title="Be Good Not Bad" type="rss" xmlUrl="http://begoodnotbad.com/rss" htmlUrl="http://begoodnotbad.com" />
 		<outline text="Good Enough" title="Good Enough" type="rss" xmlUrl="http://bekwalesblog.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://bekwalesblog.blogspot.com/" />
-		<outline text="aprendía  |  weblog" title="aprendía  |  weblog" type="rss" xmlUrl="http://benspaulding.com/feeds/weblog/" htmlUrl="http://benspaulding.us/weblog/" />
+		<outline text="aprendía  |  weblog" title="aprendía  |  weblog" type="rss" xmlUrl="http://benspaulding.com/feeds/weblog/" htmlUrl="http://benspaulding.us/weblog/" />
 		<outline text="Ben Ward" title="Ben Ward" type="rss" xmlUrl="http://benward.me/feed/atom" htmlUrl="http://benward.me" />
 		<outline text="BERG" title="BERG" type="rss" xmlUrl="http://berglondon.com/feed/" htmlUrl="http://berglondon.com" />
 		<outline text="Bernalwood" title="Bernalwood" type="rss" xmlUrl="http://bernalwood.wordpress.com/feed/" htmlUrl="http://bernalwood.wordpress.com" />
@@ -201,7 +201,7 @@
 		<outline text="An Entirely Other Day" title="An Entirely Other Day" type="rss" xmlUrl="http://blog.eod.com/rss" htmlUrl="http://www.eod.com/blog/" />
 		<outline text="An Epic Blog" title="An Epic Blog" type="rss" xmlUrl="http://blog.epicagency.net/feed/" htmlUrl="http://blog.epicagency.net" />
 		<outline text="Extraface" title="Extraface" type="rss" xmlUrl="http://blog.extraface.com/feed/" htmlUrl="http://blog.extraface.com" />
-		<outline text="evan.musing << current" title="evan.musing << current" type="rss" xmlUrl="http://blog.fallingsnow.net/feed/" htmlUrl="http://blog.fallingsnow.net" />
+		<outline text="evan.musing  current" title="evan.musing  current" type="rss" xmlUrl="http://blog.fallingsnow.net/feed/" htmlUrl="http://blog.fallingsnow.net" />
 		<outline text="FlickrBlog" title="FlickrBlog" type="rss" xmlUrl="http://blog.flickr.com/en/feed/rss2/" htmlUrl="http://blog.flickr.net" />
 		<outline text="Frank Chimero" title="Frank Chimero" type="rss" xmlUrl="http://blog.frankchimero.com/rss" htmlUrl="http://blog.frankchimero.com/" />
 		<outline text="the hamstu" title="the hamstu" type="rss" xmlUrl="http://blog.hamstu.com/feed/" htmlUrl="http://blog.hamstu.com" />
@@ -1411,7 +1411,7 @@
 		<outline text="kategreene.net" title="kategreene.net" type="rss" xmlUrl="http://kategreene.net/?feed=rss2" htmlUrl="http://kategreene.net" />
 		<outline text="katepruitt" title="katepruitt" type="rss" xmlUrl="http://katepruitt.blogspot.com/feeds/posts/default" htmlUrl="http://katepruitt.blogspot.com/" />
 		<outline text="kathrynyu" title="kathrynyu" type="rss" xmlUrl="http://kathrynyu.tumblr.com/rss" htmlUrl="http://kathrynyu.tumblr.com/" />
-		<outline text="< Keep Left" title="< Keep Left" type="rss" xmlUrl="http://keepleftlondon.wordpress.com/feed/" htmlUrl="http://keepleftlondon.wordpress.com" />
+		<outline text="Keep Left" title="Keep Left" type="rss" xmlUrl="http://keepleftlondon.wordpress.com/feed/" htmlUrl="http://keepleftlondon.wordpress.com" />
 		<outline text="Uppity Stuff" title="Uppity Stuff" type="rss" xmlUrl="http://kellydeal.tumblr.com/rss" htmlUrl="http://kellydeal.tumblr.com/" />
 		<outline text="eject" title="eject" type="rss" xmlUrl="http://kellyoxford.tumblr.com/rss" htmlUrl="http://kellyoxford.tumblr.com/" />
 		<outline text="Kevin McNeal Photography" title="Kevin McNeal Photography" type="rss" xmlUrl="http://kevinmcneal.wordpress.com/feed/" htmlUrl="http://kevinmcneal.wordpress.com" />
